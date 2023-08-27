@@ -1,3 +1,3 @@
 # Educational-Robot
-## this phase is the software of Educational robot
-by python
+## This phase is the software of the Educational robot
+By python
